@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+/Users/mac/Work/SR03WS/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1018766969.index
+2373194475.index
+404429346.index
+1108656564.index
+2780858789.index
